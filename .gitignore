@@ -1,0 +1,61 @@
+# Operating System files
+.DS_Store                # macOS file system cache
+Thumbs.db               # Windows thumbnail cache
+ehthumbs.db             # Windows thumbnail cache
+Icon?                   # macOS icon files
+*.log                   # Log files
+
+# Visual Studio Code
+.vscode/                 # Visual Studio Code settings directory
+
+# Visual Studio (C++)
+*.sln                   # Solution files
+*.suo                   # Solution user options file
+*.user                  # User-specific project settings
+*.ncb                   # IntelliSense database
+*.sdf                   # SQL Server Compact database
+*.opensdf               # Open SQL Server Compact database
+*.vcxproj               # Visual C++ project file
+*.vcxproj.user          # User-specific project settings
+
+# Node.js
+node_modules/           # Node.js packages
+
+# Python
+__pycache__/            # Python cache files
+*.py[cod]               # Compiled Python files
+
+# Java
+*.class                 # Compiled Java files
+*.jar                   # Java archive files
+*.war                   # Web archive files
+
+# Environment variables
+.env                    # Environment variable file
+.env.local              # Local environment variable file
+.env.*                  # All other .env files
+
+# Personal data
+*.pem                   # Certificate files
+*.key                   # Private key files
+*.crt                   # Certificate files
+*.db                    # Database files
+
+# Backup files
+*~                      # Backup files from editors
+*.bak                   # Backup files
+*.tmp                   # Temporary files
+
+# IDE specific folders
+*.idea/                 # IntelliJ IDEA settings
+*.vscode/               # Visual Studio Code settings
+*.eclipse/              # Eclipse settings
+
+# Miscellaneous
+*.swp                   # Swap files from Vim
+*.lock                  # Lock files
+
+# Directories
+logs/                   # Log directories
+temp/                   # Temporary files and directories
+cache/                  # Cache files and directories
